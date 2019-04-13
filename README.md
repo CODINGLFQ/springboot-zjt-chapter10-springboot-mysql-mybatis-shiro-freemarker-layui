@@ -374,7 +374,7 @@ springboot+springmvc+mysql+mybatis+通用mapper+分页插件+shiro+freemarker+la
 
  sql脚本含在项目sql文件夹中
 
-===========================================
+
 转自：
 https://www.erlo.vip/share/9/4206.html
-===========================================
+

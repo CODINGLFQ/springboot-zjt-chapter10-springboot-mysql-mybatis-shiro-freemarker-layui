@@ -1,10 +1,7 @@
 # springboot-zjt-chapter10-springboot-mysql-mybatis-shiro-freemarker-layui
 通用的java后台管理系统(权限管理+用户管理+菜单管理)
 
-===========================================
-转自：
-https://www.erlo.vip/share/9/4206.html
-===========================================
+
 
 一.前言
 经过前10篇文章，我们已经可以快速搭建一个springboot的web项目；
@@ -376,3 +373,8 @@ springboot+springmvc+mysql+mybatis+通用mapper+分页插件+shiro+freemarker+la
  https://github.com/zhaojiatao/springboot-zjt-chapter10-springboot-mysql-mybatis-shiro-freemarker-layui.git
 
  sql脚本含在项目sql文件夹中
+
+===========================================
+转自：
+https://www.erlo.vip/share/9/4206.html
+===========================================
